@@ -1,2 +1,3 @@
 # code_summary
-Summary of some interesting and useful codes
+
+Summary of some interesting and useful codes.
